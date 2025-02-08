@@ -1,5 +1,8 @@
 # BMI-Calculator
 
+#Its a simple python algorithm to check BMI. Lets find out whats your BMI is!
+
+
 name= input("enter your name: ")
 weight= int(input("enter your weight in kilos: "))
 
